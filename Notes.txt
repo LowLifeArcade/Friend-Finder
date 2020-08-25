@@ -1,0 +1,36 @@
+Notes 
+jsx is javascript but it looks like html
+
+class from html doesn't work though because jsx is javascript and class is a reserved word, so we have to use className where we would use class in html
+
+in js file you can give a prop to tag and can then use prop in another file
+
+You need React active to use JSX so import React from 'react'
+
+when 
+const Card = () => {
+    return(
+        <div></div>
+    )
+}
+You can only return one thing. The one in the div.
+
+for 
+import {people} from './people';
+
+you have "destructure" it with {} because it doesn't say export default at the bottom of the people.js file
+
+key props in the cards helps so that when the virtual dom deletes something it knows it is just that thing and doesn't have to reevaluate the whole page
+
+if returning on multiple lines use ()
+
+Props are things that come out of STATE
+
+STATE is the description of the App
+
+State comes form a parent and becomes prop when a child receives it
+
+At the end of 212 video he talks about weird things you must do for State
+
+revist 215 about props.children
+scroll as an example
