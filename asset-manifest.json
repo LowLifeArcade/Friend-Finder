@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Friend-Finder/static/css/main.9b104735.chunk.css",
+    "main.js": "/Friend-Finder/static/js/main.59abef73.chunk.js",
+    "main.js.map": "/Friend-Finder/static/js/main.59abef73.chunk.js.map",
+    "runtime-main.js": "/Friend-Finder/static/js/runtime-main.d9bdbd60.js",
+    "runtime-main.js.map": "/Friend-Finder/static/js/runtime-main.d9bdbd60.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Friend-Finder/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.23fa258a.chunk.js": "/Friend-Finder/static/js/2.23fa258a.chunk.js",
+    "static/js/2.23fa258a.chunk.js.map": "/Friend-Finder/static/js/2.23fa258a.chunk.js.map",
+    "index.html": "/Friend-Finder/index.html",
+    "precache-manifest.194f3a0f37a18ac39a4ce0ebb0d23dbd.js": "/Friend-Finder/precache-manifest.194f3a0f37a18ac39a4ce0ebb0d23dbd.js",
+    "service-worker.js": "/Friend-Finder/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Friend-Finder/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9b104735.chunk.css.map": "/Friend-Finder/static/css/main.9b104735.chunk.css.map",
+    "static/js/2.23fa258a.chunk.js.LICENSE.txt": "/Friend-Finder/static/js/2.23fa258a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9bdbd60.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.23fa258a.chunk.js",
+    "static/css/main.9b104735.chunk.css",
+    "static/js/main.59abef73.chunk.js"
+  ]
+}
